@@ -1,0 +1,24 @@
+Version: 2.0.0
+Date:    17 August 21
+===========================
+Bootstrap update from v3 to v5
+Minor issue fixed
+
+
+Version: 1.0.1
+Date:    12 July 21
+===========================
+jQuery update from 3.1.1  to 3.6.0
+slick slider update from 1.6.0 to 1.8.1
+Isotope js update from 3.0.4  to 3.0.6
+imageloaded js update from 4.1.2 to 4.1.4
+smooth scroll js update from 2.0.1 to 2.2.0
+animate css update from 3.5.1 to 4.0.0
+
+
+
+Version: 1.0.0
+Date:    30 July 18
+===========================
+Initial Release
+
